@@ -46,6 +46,7 @@ namespace pz_5
             {
                 Console.WriteLine("i и j равны: " + i + " и " + j);
             }
+            Console.ReadLine();
         }
     }
 }
