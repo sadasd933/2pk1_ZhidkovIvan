@@ -1,6 +1,6 @@
 ﻿using System;
 
-namespace PZ_8
+namespace pz_8
 {
     class Program
     {
