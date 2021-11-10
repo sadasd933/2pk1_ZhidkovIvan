@@ -76,10 +76,5 @@ namespace pz_10
 
         static string symbols = "ABCDEFGHIJKLMNOPQRSTUVWXYZ";
         static Random r = new();
-        static char GetRandomChar()
-        {
-            var randchar = r.Next(symbols.Length);
-            return symbols[randchar];
-        }
     }
 }
